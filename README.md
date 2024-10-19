@@ -21,7 +21,7 @@ VoicesAPP es una aplicación de Android que utiliza el servicio **Text to Speech
 
 1. **Clonar el repositorio**:
     ```bash
-    git clone https://github.com/tu-usuario/VoicesAPP-TTS.git
+    git clone https://github.com/cristianhar/VoicesAPP-TTS.git
     ```
 
 2. **Abrir en Android Studio**:
