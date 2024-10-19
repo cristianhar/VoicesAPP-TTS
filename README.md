@@ -2,6 +2,8 @@
 
 VoicesAPP es una aplicación de Android que utiliza el servicio **Text to Speech (TTS)** para convertir texto a voz en tiempo real. Es una implementación simple que permite al usuario escribir un mensaje y escuchar cómo el teléfono lo lee en voz alta.
 
+<img src="/preview/preview.png" alt="VoicesAPP Preview" width="30%" />
+
 ## Características
 
 - **Entrada de texto personalizada**: El usuario puede escribir cualquier mensaje en el campo de texto.
@@ -15,7 +17,7 @@ VoicesAPP es una aplicación de Android que utiliza el servicio **Text to Speech
 - **Android SDK**: Para el desarrollo de la aplicación móvil.
 - **TextToSpeech API**: Proporciona la funcionalidad de conversión de texto a voz.
 
-   ![VoicesAPP Preview](/preview/preview.png)
+  
 
 ## Cómo ejecutar el proyecto
 
