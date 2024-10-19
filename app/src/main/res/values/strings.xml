@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Clase_2</string>
+    <string name="titulo">App de Discursos</string>
+    <string name="h_et">Escribe tu discurso</string>
+    <string name="btnText">Play</string>
+    <string name="tvMensaje">Hello Kotlin</string>
+    <string name="tvImgMsg">Android App</string>
+</resources>
